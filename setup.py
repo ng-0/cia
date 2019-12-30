@@ -26,5 +26,5 @@ setup(
                  'Operating System :: MacOS :: MacOS X',
                  'Operating System :: Microsoft :: Windows',
                  'Operating System :: POSIX'],
-    platforms=['windows', 'Linux', 'MacOS X', 'Solaris', 'FreeBSD'],
+    platforms=['windows', 'MacOS X', 'Solaris', 'FreeBSD', 'NetBSD', 'Haiku', 'DOS', 'FreeDOS'],
 )
